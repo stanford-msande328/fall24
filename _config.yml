@@ -17,7 +17,7 @@ title: 'MS&E328/CS328'
 tagline: Foundations of Causal Machine Learning
 description: A theory course on recent techniques at the intersection of causal inference and machine learning
 author: Vasilis Syrgkanis
-baseurl: '/fall23' # the subpath of your site, e.g. /blog
+baseurl: '/fall24' # the subpath of your site, e.g. /blog
 url: 'https://stanford-msande328.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
